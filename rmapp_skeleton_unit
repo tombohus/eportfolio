@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Research Metghods and Professional Practice</title>
+		<title>Research Methods and Professional Practice</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -33,7 +33,7 @@
 							<li><a href="aboutme.html">About Me</a></li>
 							<li><a href="lics_landing.html">Launching Into CyberSecurity</a></li>
 							<li><a href="srm_landing.html">Security and Risk Management</a></li>
-              <li><a href="rmapp_landing.html">Research Methods and Professional Practice</a></li>
+              						<li><a href="rmapp_landing.html">Research Methods and Professional Practice</a></li>
 						</ul>
 					</nav>
 
@@ -60,7 +60,15 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
-										<h2>Summary</h2>
+										<h2>Unit Overview</h2>
+									</header>
+									<p>
+								</div>
+							</section>
+							<section id="two">
+								<div class="inner">
+									<header class="major">
+										<h2>Artefact</h2>
 									</header>
 									<p>
 								</div>
