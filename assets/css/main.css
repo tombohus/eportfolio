@@ -2228,6 +2228,7 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25em;
+			white-space: nowrap;
 		}
 
 	ul {
