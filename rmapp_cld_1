@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Collaborative Learning Discussion One</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo">Summary</a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="aboutme.html">About Me</a></li>
+							<li><a href="lics_landing.html">Launching Into CyberSecurity</a></li>
+							<li><a href="srm_landing.html">Security and Risk Management</a></li>
+              <li><a href="rmapp_landing.html">Research Methods and Professional Practice</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							<header class="major">
+								<h1>Collaborative Learning Discussion One</h1>
+							</header>
+							<div class="content">
+								<p>Reflections From This Discussion</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Discussion Topic - Case Study: Accuracy of information</h2>
+									</header>
+<p>
+Abi is a researcher at an institute and also a statistical programmer. Abi has received a project from a manufacturer to review the nutritional value of a new cereal, Whizzz. Having collected the necessary data, he now needs to perform the appropriate analyses and print the reports for him to send to the manufacturer. Unfortunately, the data Abi has collected seems to refute the claim that Whizzz is nutritious, and, in fact, they may indicate that Whizzz is harmful.<br><br>
+Abi also realises that some other correlations could be performed that would cast Whizzz in a more favourable light. “After all,” he thinks, “I can use statistics to support either side of any issue.”<br><br>
+
+Ethical Concerns<br><br>
+
+•  Clearly, if Abi changed data values in this study he would be acting unethically. But is it any more ethical for him to suggest analysing correct data in a way that supports two or more different conclusions?<br>
+•  Is Abi obligated to present both the positive and the negative analyses?<br>
+•  Is Abi responsible for the use to which others put his program results?<br?
+•  If Abi does put forward both sets of results to the manufacturer, he suspects that they will publicise only the positive ones. What other courses of action has he?<br><br>
+You should also highlight legal, social and professional impacts of any choices made. Please note that there are no right or wrong answers here and you may introduce local, as well as international, legislature in your responses.<br><br>
+You should demonstrate that you understand the topic covered and ensure you use references to academic literature (including journals, books, and reports). This activity will provide evidence of your personal growth and your summary post is required in your e-portfolio.<br><br>
+Your initial posting should respond to the question and be at least 200 words long. Your initial post should be labelled "initial post".
+								</div>
+							</section>
+
+            	<section id="two">
+								<div class="inner">
+									<header class="major">
+										<h2>Initial Post: Case Study - Abusive Workplace Behaviour</h2>
+									</header>
+<p>
+Diane joins an augmented reality research team led by Max, who has a reputation for brilliant but abusive behaviour. Max verbally attacks team members over minor issues and has removed women's names from publications. When Diane raises concerns after Max lashes out at her, manager Jean dismisses the unprofessional conduct as the price of working on a top team. Despite Max's mistreatment of women colleagues, Jean tells Diane to accept the environment.<br><br>
+This case appears to reveal violations of both the BCS and ACM ethical codes:<br><br>
+BCS Code breaches:<br>
+Max's verbal abuse contravenes respect and consideration principles (BCS, 2018). His conduct perpetuates technology's culture of incivility (Fiesler et al., 2021). Furthermore, misattributing authorship is an abuse of power (BCS, 2018) that constitutes scientific misconduct (Resnik et al., 2015). Finally, Jean fails to address unethical behaviour, violating management's responsibilities (Johnson, 2003). Her dismissal of concerns perpetuates exclusion, conflicting with BCS inclusion values (BCS, 2018).<br><br>
+ACM Code breaches:<br>
+Max's bullying contradicts ACM's prohibition of harassment and hostile behaviour (ACM, 2018). His actions foster an intimidating climate that diminishes psychological safety (Jagsi et al., 2021). In addition, his authorship denial violates ACM's honesty standard (ACM, 2018). It reflects the marginalization women face in computing fields (Wachter-Boettcher, 2017). Jean is complicit by not responding appropriately to the ethical issues raised (ACM, 2018).<br><br>
+In summary, this environment enables repeat unethical acts, requiring accountability and restorative efforts to realign with professional conduct standards (BCS, 2018; ACM 2018).<br><br><br>
+References:<br><br>
+BCS (2018) Code of Conduct. Available at: https://www.bcs.org/media/5891/bcs-code-of-conduct.pdf<br><br>
+
+ACM (2018) Code of Ethics. Available at: https://www.acm.org/code-of-ethics<br><br>
+
+Fiesler, C. et al. (2021) 'What we can do about bad actors on social media', Communications of the ACM, 64(3), pp. 58-63.<br><br>
+
+Resnik, D.B. et al. (2015) ‘Scientific authorship and collaboration: analysis of consortium research groups’, Accountability in Research, 22(1), pp. 16–34.<br><br>
+
+Johnson, C.E. (2003) ‘Implementing the BCS Code of Conduct’, Journal of Information, Communication and Ethics in Society, 1(4), pp. 215-225.<br><br>
+
+Jagsi, R. et al. (2021) ‘Progress toward improving the culture of academic medicine’, New England Journal of Medicine, 385(7), pp. 680-682.<br><br>
+
+Wachter-Boettcher, S. (2017) Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech. WW Norton & Company.<br><br>
+
+								</div>
+							</section>
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">bohusthomas@gmail.com</a>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
