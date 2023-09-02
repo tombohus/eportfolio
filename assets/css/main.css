@@ -2229,6 +2229,7 @@ input, select, textarea {
 		ol li {
 			padding-left: 0.25em;
 			white-space: nowrap;
+			display: inline-block
 		}
 
 	ul {
@@ -2240,6 +2241,7 @@ input, select, textarea {
 		ul li {
 			padding-left: 0.5em;
 			white-space: nowrap;
+			display: inline-block
 		}
 
 		ul.alt {
